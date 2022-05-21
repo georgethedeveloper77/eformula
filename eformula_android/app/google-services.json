@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820529154357",
+    "project_id": "eformulae-bf8cf",
+    "storage_bucket": "eformulae-bf8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820529154357:android:b5464fef40407878dba47c",
+        "android_client_info": {
+          "package_name": "com.mindberzerk.eformula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820529154357-au10bi64f0fepa2fnpecdcogas3qaj1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindberzerk.eformula",
+            "certificate_hash": "0188b5c467c10acead6674d5e4636081b002b2bf"
+          }
+        },
+        {
+          "client_id": "820529154357-2upb0qb0vtfch7gdhevmjm5s6mjaa85g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgi78bqkv32U5mCxCV8I5iV2Z7_d-ASU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820529154357-2upb0qb0vtfch7gdhevmjm5s6mjaa85g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
