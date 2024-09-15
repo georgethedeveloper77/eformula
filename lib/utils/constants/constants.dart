@@ -9,13 +9,13 @@ export 'hive_constants.dart';
 export 'sound_constants.dart';
 export 'string_labels.dart';
 
-const appName = 'Elite Quiz';
-const packageName = 'com.wrteam.flutterquiz';
+const appName = 'Eformula';
+const packageName = 'com.mindberzerk.eformula';
 
 /// Add your database url
 // NOTE: make sure to not add '/' at the end of url
 // NOTE: make sure to check if admin panel is http or https
-const databaseUrl = 'https://elitequiz.wrteam.me';
+const databaseUrl = 'https://admin.eformula.site';
 
 /// Add language code in this list
 // visit this to find languageCode for your respective language
@@ -25,7 +25,7 @@ const supportedLocales = ['en', 'hi', 'ar', 'es'];
 const defaultLanguageCode = 'en';
 
 // Enter 2 Letter ISO Country Code
-const defaultCountryCodeForPhoneLogin = 'IN';
+const defaultCountryCodeForPhoneLogin = 'KE';
 
 /// Default App Theme : lightThemeKey or darkThemeKey
 const defaultThemeKey = lightThemeKey;

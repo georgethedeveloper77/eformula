@@ -1,4 +1,4 @@
-package com.wrteam.flutterquiz
+package com.mindberzerk.eformula
 
 import io.flutter.embedding.android.FlutterActivity
 
