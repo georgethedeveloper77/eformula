@@ -153,7 +153,7 @@ class _SplashScreenState extends State<SplashScreen>
         }
 
         return Scaffold(
-          backgroundColor: Theme.of(context).primaryColor,
+          backgroundColor: Colors.white,
           body: SizedBox.expand(
             child: Stack(
               children: [
@@ -178,7 +178,7 @@ class _SplashScreenState extends State<SplashScreen>
                 ),
 
                 /// Organization Logo
-                if (showCompanyLogo) ...[
+                /*if (showCompanyLogo) ...[
                   Align(
                     alignment: Alignment.bottomCenter,
                     child: Padding(
@@ -186,7 +186,7 @@ class _SplashScreenState extends State<SplashScreen>
                       child: QImage(imageUrl: _orgLogoPath),
                     ),
                   ),
-                ],
+                ],*/
               ],
             ),
           ),

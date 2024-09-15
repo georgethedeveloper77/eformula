@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 const klBackgroundColor = Color(0xffffffff);
 const klCanvasColor = Color(0xcc000000);
 const klPageBackgroundColor = Color(0xfff3f7fa);
-const klPrimaryColor = Color(0xffef5388);
+const klPrimaryColor = Color(0xff0748f1);
 const klPrimaryTextColor = Color(0xff45536d);
 
 /// Dark Theme

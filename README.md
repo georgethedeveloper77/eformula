@@ -27,6 +27,7 @@ cd ..
 3. Run the app
 ```shell
 flutter run
+jwt_key = "eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJlZm9ybXVsYV91c2VyIiwiVXNlcm5hbWUiOiJlZm9ybXVsYV91c2VyIiwiZXhwIjoyNTUyMzg0NDk3LCJpYXQiOjE2Njg3NzE2OTd9.amWXkZxPu3nGgiUF_e_aIXhjmkvah1eZDh4cAMEmKP8"
 ```
 
 ## How to get your DEBUG SHA keys

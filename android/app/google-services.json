@@ -54,6 +54,14 @@
             {
               "client_id": "820529154357-b1e1nq9qc697hnoud7f772v3nqu198qf.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "820529154357-kgn32fpm70tt5vfsfokiclq5q6rc9vfe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mindberzerk.eformula",
+                "app_store_id": "6478109759"
+              }
             }
           ]
         }
