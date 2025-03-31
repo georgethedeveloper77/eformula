@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "820529154357",
+    "firebase_url": "https://eformulae-bf8cf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eformulae-bf8cf",
+    "storage_bucket": "eformulae-bf8cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820529154357:android:da9d85274a5be113dba47c",
+        "android_client_info": {
+          "package_name": "com.mindberzerk.eformula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820529154357-65hmpn9ucmjc4frqvm5vhhq3mgc7inhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindberzerk.eformula",
+            "certificate_hash": "ac436c6f2077eefea65253e8cb0dcdcf21973144"
+          }
+        },
+        {
+          "client_id": "820529154357-fibjf0rh4fqfbnldtkaetnd62tv41r72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindberzerk.eformula",
+            "certificate_hash": "82862ca2c031d28456ea43fea8744ed00ad96196"
+          }
+        },
+        {
+          "client_id": "820529154357-h25q9mee87neroskgutu2amvhgpbagde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindberzerk.eformula",
+            "certificate_hash": "8e445fad584ce3e9509cf777c2303ece7a740f23"
+          }
+        },
+        {
+          "client_id": "820529154357-r2utr5lkdp0cd09uojtvpqd7eb24jr8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mindberzerk.eformula",
+            "certificate_hash": "62366c9f784c9c7ad3481521fd54631fdb5ddaa1"
+          }
+        },
+        {
+          "client_id": "820529154357-b1e1nq9qc697hnoud7f772v3nqu198qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQgi78bqkv32U5mCxCV8I5iV2Z7_d-ASU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820529154357-b1e1nq9qc697hnoud7f772v3nqu198qf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "820529154357-kgn32fpm70tt5vfsfokiclq5q6rc9vfe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mindberzerk.eformula",
+                "app_store_id": "6478109759"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7657066096391604~2578192147"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>820529154357-kgn32fpm70tt5vfsfokiclq5q6rc9vfe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.820529154357-kgn32fpm70tt5vfsfokiclq5q6rc9vfe</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>820529154357-65hmpn9ucmjc4frqvm5vhhq3mgc7inhi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGCe6a1eNbpttMI5POmD7HTD97NKqQH_c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>820529154357</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mindberzerk.eformula</string>
+	<key>PROJECT_ID</key>
+	<string>eformulae-bf8cf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eformulae-bf8cf.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:820529154357:ios:dab0253c0128bf74dba47c</string>
+	<key>DATABASE_URL</key>
+	<string>https://eformulae-bf8cf-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
